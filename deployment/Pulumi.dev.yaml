@@ -1,2 +1,4 @@
 config:
   aws:region: eu-west-1
+  paxium:dbPassword:
+    secure: AAABAJidU74+MpYOO6+8Fq2UyvKi7RBQXdNY2UwReGjiYf0Slzr0v+LR
