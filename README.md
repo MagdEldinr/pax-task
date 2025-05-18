@@ -13,7 +13,7 @@ This is a FastAPI application for managing sensor data, with PostgreSQL as the d
 ## Technologies Used
 
 * FastAPI
-* SQLAlchemy (async)
+* SQLAlchemy
 * PostgreSQL
 * Pydantic for data validation
 * Docker & Docker Compose
